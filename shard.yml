@@ -1,0 +1,13 @@
+name: sample
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  sample:
+    main: src/sample.cr
+
+crystal: 0.31.1
+
+license: MIT
